@@ -1,2 +1,2 @@
 # Projects
-things i'm learning in my course
+My first animation in javascript!
